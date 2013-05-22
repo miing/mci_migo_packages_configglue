@@ -1,0 +1,10 @@
+configglue.egg-info/
+*.py[co]
+*_flymake.py
+debian/files
+debian/python-configglue*
+python-build-stamp*
+build
+dist
+doc/_build
+.tox
